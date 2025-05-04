@@ -1,0 +1,11 @@
+* Gere uma tabela que contenha data, vendas e temperatura;
+* Essa tabela é relacionada a vendas de picoles;
+* Necessário saber a quantidade vendida;
+* 100 linhas em formato de tabela;
+
+
+* Hoje a temperatura está em 35°C e as vendas de sorvete dispararam.
+* Em dias frios, como 18°C, quase não tivemos vendas.
+* Quando faz calor, é mais provável que as pessoas comprem sorvete.
+* Há uma correlação clara entre altas temperaturas e aumento nas vendas.
+* O modelo pode ajudar na previsão de demanda e evitar desperdícios.
