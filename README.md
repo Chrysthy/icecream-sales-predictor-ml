@@ -26,3 +26,15 @@ However, producing the right amount is a challenge:
 * 🔥 Producing too little → missed sales and unhappy customers.
 
 To address this challenge, we developed a **regression model** that predicts daily sales based on temperature, allowing more precise production planning.
+
+<br>
+
+## ✨ Features
+
+- Data preprocessing and cleaning
+- Exploratory data analysis (EDA)
+- Predictive modeling using linear regression
+- Performance evaluation and visualization
+- Model tracking and versioning with MLflow
+- Deployment for real-time prediction (optional)
+- Project versioning and portfolio presentation with GitHub
