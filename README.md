@@ -58,3 +58,11 @@ To address this challenge, we developed a **regression model** that predicts dai
 - Provide a reproducible and scalable machine learning pipeline
 - Showcase hands-on ML skills in a real-world scenario
 - Build a strong and practical portfolio project
+
+  <br>
+
+## 📜 License
+
+* This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+
+<br>
