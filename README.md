@@ -15,3 +15,14 @@
 </p>
 
 <br>
+
+## 📸 Scenario
+You own Gelato Mágico, a cozy ice cream shop in a seaside town. Over time, you’ve noticed a clear pattern: the hotter the day, the more ice cream you sell.
+
+However, producing the right amount is a challenge:
+
+* ❄️ Producing too much → waste, losses, and spoiled inventory.
+
+* 🔥 Producing too little → missed sales and unhappy customers.
+
+To address this challenge, we developed a **regression model** that predicts daily sales based on temperature, allowing more precise production planning.
