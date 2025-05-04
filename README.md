@@ -38,3 +38,13 @@ To address this challenge, we developed a **regression model** that predicts dai
 - Model tracking and versioning with MLflow
 - Deployment for real-time prediction (optional)
 - Project versioning and portfolio presentation with GitHub
+
+<br>
+
+## 🎯 Goal
+
+- Predict daily ice cream sales based on temperature
+- Help small businesses reduce waste and maximize profit
+- Provide a reproducible and scalable machine learning pipeline
+- Showcase hands-on ML skills in a real-world scenario
+- Build a strong and practical portfolio project
