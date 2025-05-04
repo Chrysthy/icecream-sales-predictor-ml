@@ -93,3 +93,9 @@ To address this challenge, we developed a **regression model** that predicts dai
 
 ## 🌟 Support
 <p> If you like this project, please give it a star ⭐ and share it with others! 😄 </p>
+
+<br>
+
+## ⚠️ Important Notice
+Due to limitations with my account, I wasn't able to access some essential resources that require a paid plan. 
+However, I understand the project’s logic and plan to revisit and implement it once I have full access to the required tools.
