@@ -29,6 +29,16 @@ To address this challenge, we developed a **regression model** that predicts dai
 
 <br>
 
+## 🛠 Technologies
+
+- Python 
+- Pandas & Scikit-Learn 
+- Jupyter Notebook 
+- MLflow 
+
+
+<br>
+
 ## ✨ Features
 
 - Data preprocessing and cleaning
