@@ -10,6 +10,7 @@
   <a href="#-scenarios">Scenario</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-dataset-example">Dataset Example</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-goal">Goal</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -53,6 +54,22 @@ To address this challenge, we developed a **regression model** that predicts dai
 
 <br>
 
+
+## 💾 Dataset Example
+
+| Date       | Temperature (°C) | Ice Creams Sold |
+|------------|------------------|-----------------|
+| 01/01/2025 | 30               | 120             |
+| 02/01/2025 | 32               | 150             |
+| 03/01/2025 | 31               | 140             |
+| 04/01/2025 | 29               | 110             |
+| 05/01/2025 | 28               | 90              |
+| 06/01/2025 | 31               | 145             |
+| 07/01/2025 | 33               | 170             |
+| 08/01/2025 | 29               | 125             |
+| 09/01/2025 | 30               | 130             |
+<br> 
+
 ## 🎯 Goal
 
 - Predict daily ice cream sales based on temperature
@@ -61,7 +78,7 @@ To address this challenge, we developed a **regression model** that predicts dai
 - Showcase hands-on ML skills in a real-world scenario
 - Build a strong and practical portfolio project
 
-  <br>
+<br>
 
 ## 📜 License
 
