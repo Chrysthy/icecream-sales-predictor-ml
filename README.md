@@ -1,8 +1,10 @@
 <h1 align="center">Predicting Ice Cream Sales with Machine Learning 🍦📊</h1> 
 
-<br>
+<p align="center">
+  ℹ️ <strong>NOTE:</strong> This repository was created as part of the Microsoft Certification Challenge #3 (DP-100) on the <a href="https://dio.me">DIO</a> platform.
+</p>
 
-> ℹ️ **NOTE:** This repository was created as part of the Microsoft Certification Challenge #3 (DP-100) on the [DIO](https://dio.me) platform.
+<br>
 
 <p align="center">  
   <a href="#-scenarios">Scenario</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
